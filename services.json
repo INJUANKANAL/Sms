@@ -1,0 +1,20 @@
+[
+    {"name": "Авито", "id": "av"},
+    {"name": "Вконтакте", "id": "vk"},
+    {"name": "Telegram", "id": "tg"},
+    {"name": "Viber", "id": "vi"},
+    {"name": "Google", "id": "go"},
+    {"name": "Uber", "id": "ub"},
+    {"name": "Instagram", "id": "ig"},
+    {"name": "Tinder", "id": "oi"},
+    {"name": "Discord", "id": "ds"},
+    {"name": "ProtonMail", "id": "dp"},
+    {"name": "Юла", "id": "ym"},
+    {"name": "СпортМастер", "id": "yk"},
+    {"name": "BlaBlaCar", "id": "ua"},
+    {"name": "Перекресток", "id": "pl"},
+    {"name": "PayPal", "id": "ts"},
+    {"name": "McDonalds", "id": "ry"},
+    {"name": "Qiwi", "id": "qw"},
+    {"name": "Whatsapp", "id": "wa"}
+]

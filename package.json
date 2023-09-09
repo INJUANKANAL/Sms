@@ -1,0 +1,22 @@
+{
+  "name": "satan-sms-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "dependencies": {
+    "got": "^11.8.1",
+    "mysql": "^2.18.1",
+    "request": "^2.88.2",
+    "requests": "^0.3.0",
+    "telegraf": "^3.38.0",
+    "telegraf-session-redis": "^5.1.0",
+    "yaml": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

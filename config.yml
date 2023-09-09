@@ -1,0 +1,15 @@
+database:
+  host: localhost
+  user: root
+  password: ""
+  database: satansms
+telegram:
+  token: 6147460913:AAHQ2lWUF7i37YOUGsv34hPT_1oUOGEDeEY
+  admin_id: "6237602009"
+qiwi:
+  wallet: bc1qzq2arr8dejasrkqlattgruh80rnt9ca90umu55
+  token: 1
+service:
+  domen: https://sms-activate.ru
+  api_key: f31484380064183A2e6622c96c8685Ae
+  tip: "2"
